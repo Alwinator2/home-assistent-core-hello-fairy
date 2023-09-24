@@ -2301,6 +2301,12 @@
       "integration_type": "virtual",
       "supported_by": "gree"
     },
+    "hellofairy": {
+      "name": "hello-fairy",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "assumed_state"
+    },
     "heltun": {
       "name": "HELTUN",
       "iot_standards": [
